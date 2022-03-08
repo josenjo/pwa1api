@@ -1,0 +1,17 @@
+{
+  "products": [
+    {id: 1, name: "Airfryer Philips", category:"Alat Masak", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/airfryer.jpg"},
+    {id: 2, name: "Blender Philips", category:"Alat Masak", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/blender.jpg"},
+    {id: 3, name: "Kompor Induksi", category:"Alat Masak", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/kompor-induksi.jpeg"},
+    {id: 4, name: "Airpods 3", category:"Gadget", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/airpods3.jpg"},
+    {id: 5, name: "Airsoft Gun", category:"Mainan", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/airsoft-gun.jpg"},
+    {id: 6, name: "Bebek Karet", category:"Mainan", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/bebek-karet.jpg"},
+    {id: 7, name: "Emas Antam", category:"", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/emas-antam.jpg"},
+    {id: 8, name: "HP Mainan", category:"Mainan", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/hp-mainan.jpg"},
+    {id: 9, name: "Karet Gelang", category:"Mainan", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/karet-gelang.jpg"},
+    {id: 10, name: "Macbook Pro", category:"Gadget", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/macbook.jpg"},
+    {id: 11, name: "Xbox Series X", category:"Gadget", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/xbox.jpg"},
+    {id: 12, name: "Oculus Quest 2", category:"Gadget", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/oculus-quest-2.jpg"},
+    {id: 13, name: "Petasan", category:"Mainan", image: "https://pwabuck1.s3.ap-southeast-1.amazonaws.com/petasan.jpg"},
+  ]
+}
